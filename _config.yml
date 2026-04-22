@@ -1,0 +1,9 @@
+title: "Sunny's Blog"
+description: "Sunny's Blog"
+baseurl: ""
+url: "https://sunny-y-z.github.io/"
+permalink: /posts/:year/:month/:day/:title/
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
